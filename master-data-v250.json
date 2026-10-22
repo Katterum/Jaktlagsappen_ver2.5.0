@@ -1,0 +1,1841 @@
+{
+  "version": 200,
+  "teamName": "Katterums jaktlag",
+  "activeYear": "2026/2027",
+  "members": [
+    {
+      "id": "1",
+      "name": "Pelle",
+      "hectares": 114,
+      "phone": "",
+      "email": "",
+      "comment": "",
+      "active": true
+    },
+    {
+      "id": "2",
+      "name": "Oskar",
+      "hectares": 70,
+      "phone": "",
+      "email": "",
+      "comment": "",
+      "active": true
+    },
+    {
+      "id": "3",
+      "name": "Göran",
+      "hectares": 44,
+      "phone": "",
+      "email": "",
+      "comment": "",
+      "active": true
+    },
+    {
+      "id": "4",
+      "name": "Thomas",
+      "hectares": 44,
+      "phone": "",
+      "email": "",
+      "comment": "",
+      "active": true
+    },
+    {
+      "id": "5",
+      "name": "Noel",
+      "hectares": 44,
+      "phone": "",
+      "email": "",
+      "comment": "",
+      "active": true
+    },
+    {
+      "id": "6",
+      "name": "Erik",
+      "hectares": 44,
+      "phone": "",
+      "email": "",
+      "comment": "",
+      "active": true
+    }
+  ],
+  "animals": [
+    {
+      "id": "animal-3ceb87d8-8017-4e97-bfd8-42184894f7e9",
+      "year": "2026/2027",
+      "date": "2026-10-12",
+      "species": "Dovhjort",
+      "type": "Hjort (kalv)",
+      "age": "Ungdjur",
+      "value": 50,
+      "otherSpecies": "",
+      "place": "Brygghuset",
+      "shooter": "Oskar",
+      "external": false,
+      "recipients": [
+        {
+          "memberId": "2",
+          "percent": 100
+        }
+      ],
+      "discarded": false,
+      "discardReason": "",
+      "comment": "",
+      "createdAt": "2026-10-22T14:48:56.879Z",
+      "updatedAt": "2026-10-22T14:48:56.879Z"
+    },
+    {
+      "id": "animal-1917b7a9-c057-4d54-89df-8139f85e24c8",
+      "year": "2026/2027",
+      "date": "2026-10-09",
+      "species": "Dovhjort",
+      "type": "Hind (vuxen)",
+      "age": "Vuxen",
+      "value": 100,
+      "place": "Hästhagen",
+      "shooter": "Adam",
+      "external": true,
+      "recipients": [
+        {
+          "memberId": "5",
+          "percent": 50
+        },
+        {
+          "memberId": "6",
+          "percent": 50
+        }
+      ],
+      "discarded": false,
+      "discardReason": "",
+      "comment": "",
+      "createdAt": "2026-10-22T14:48:15.708Z",
+      "updatedAt": "2026-10-22T14:48:15.708Z"
+    },
+    {
+      "id": "animal-57cc6f1f-9b0b-48e1-9b5b-8fcf87ecec12",
+      "year": "2026/2027",
+      "date": "2026-10-08",
+      "species": "Dovhjort",
+      "type": "Hjort (kalv)",
+      "age": "Ungdjur",
+      "value": 50,
+      "place": "Runda Kärret",
+      "shooter": "Pelle",
+      "external": false,
+      "recipients": [
+        {
+          "memberId": "4",
+          "percent": 100
+        }
+      ],
+      "discarded": false,
+      "discardReason": "",
+      "comment": "",
+      "createdAt": "2026-10-22T14:48:15.708Z",
+      "updatedAt": "2026-10-22T14:48:15.708Z"
+    },
+    {
+      "id": "animal-e395caf2-401c-461a-b106-9bb33ca2db7d",
+      "year": "2026/2027",
+      "date": "2026-10-04",
+      "species": "Dovhjort",
+      "type": "Hind (vuxen)",
+      "age": "Vuxen",
+      "value": 100,
+      "place": "Bottilsbo",
+      "shooter": "Bosse Flodin",
+      "external": true,
+      "recipients": [
+        {
+          "memberId": "1",
+          "percent": 100
+        }
+      ],
+      "discarded": false,
+      "discardReason": "",
+      "comment": "",
+      "createdAt": "2026-10-22T14:48:15.708Z",
+      "updatedAt": "2026-10-22T14:48:15.708Z",
+      "passId": "pass-984d5bad-2ce3-43bb-91cb-2b28ed2bee84"
+    },
+    {
+      "id": "animal-3f9dd6a1-880f-4c42-9c69-446ca650f90c",
+      "year": "2026/2027",
+      "date": "2026-08-20",
+      "species": "Rådjur",
+      "type": "Bock (vuxen)",
+      "age": "Vuxen",
+      "value": 100,
+      "place": "Stenen Drottninggatan",
+      "shooter": "Noel",
+      "external": false,
+      "recipients": [
+        {
+          "memberId": "5",
+          "percent": 50
+        },
+        {
+          "memberId": "6",
+          "percent": 50
+        }
+      ],
+      "discarded": false,
+      "discardReason": "",
+      "comment": "",
+      "createdAt": "2026-10-22T14:48:15.708Z",
+      "updatedAt": "2026-10-22T14:48:15.708Z",
+      "passId": "pass-479372e8-7837-43b9-a25a-ab3a300021fa"
+    },
+    {
+      "id": "animal-b9e738a3-48b5-46e0-adb0-eb72ecd013b5",
+      "year": "2026/2027",
+      "date": "2026-08-16",
+      "species": "Vildsvin",
+      "type": "Gylta (vuxen)",
+      "age": "Vuxen",
+      "value": 100,
+      "place": "Runda Kärret",
+      "shooter": "Erik",
+      "external": false,
+      "recipients": [
+        {
+          "memberId": "5",
+          "percent": 50
+        },
+        {
+          "memberId": "6",
+          "percent": 50
+        }
+      ],
+      "discarded": false,
+      "discardReason": "",
+      "comment": "",
+      "createdAt": "2026-10-22T14:48:15.708Z",
+      "updatedAt": "2026-10-22T14:48:15.708Z"
+    }
+  ],
+  "hunts": [
+    {
+      "id": "hunt-1c526481-fa19-4736-8eb9-c861587016af",
+      "year": "2026/2027",
+      "date": "2026-10-18",
+      "type": "Drevjakt",
+      "place": "__other__",
+      "participants": [
+        "1",
+        "2",
+        "5",
+        "6"
+      ],
+      "guests": [
+        "Andreas Vångell"
+      ],
+      "comment": "",
+      "createdAt": "2026-10-22T14:56:57.693Z",
+      "updatedAt": "2026-10-22T14:56:57.693Z"
+    },
+    {
+      "id": "hunt-3e97375d-3d3e-4151-8bf0-6df3560182b3",
+      "year": "2026/2027",
+      "date": "2026-10-04",
+      "type": "Drevjakt",
+      "place": "Bottilsbo",
+      "participants": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "guests": [
+        "Bosse Flodin",
+        "Bosse Karlsson",
+        "Martin Engman",
+        "Johan Axelsson",
+        "Luke Stewart"
+      ],
+      "comment": "",
+      "createdAt": "2026-10-22T14:48:15.708Z",
+      "updatedAt": "2026-10-22T14:48:15.708Z",
+      "passId": "pass-984d5bad-2ce3-43bb-91cb-2b28ed2bee84"
+    },
+    {
+      "id": "hunt-ce710c62-e701-4bb7-bf78-1d0436001b15",
+      "year": "2026/2027",
+      "date": "2026-10-08",
+      "type": "Drevjakt",
+      "place": "Runda Kärret",
+      "participants": [
+        "1",
+        "5",
+        "6"
+      ],
+      "guests": [
+        "Luke Stewart"
+      ],
+      "comment": "",
+      "createdAt": "2026-10-22T14:48:15.708Z",
+      "updatedAt": "2026-10-22T14:48:15.708Z"
+    },
+    {
+      "id": "hunt-197e14f6-b850-490c-9771-e244322b2599",
+      "year": "2026/2027",
+      "date": "2026-10-10",
+      "type": "Drevjakt",
+      "place": "",
+      "participants": [
+        "1",
+        "4",
+        "5",
+        "6"
+      ],
+      "guests": [
+        "Luke Stewart"
+      ],
+      "comment": "",
+      "createdAt": "2026-10-22T14:48:15.708Z",
+      "updatedAt": "2026-10-22T14:48:15.708Z"
+    }
+  ],
+  "observations": [
+    {
+      "id": "obs-8aed8627-c312-425c-888d-0973406b66dc",
+      "year": "2026/2027",
+      "date": "2026-10-18",
+      "time": "20:00",
+      "observerType": "member",
+      "observerId": "1",
+      "observerName": "Pelle",
+      "visualObservation": true,
+      "droppings": false,
+      "fieldAnimal": false,
+      "species": "Älg",
+      "animalClass": "Tjur (vuxen)",
+      "count": 1,
+      "place": "Kartposition",
+      "direction": "NO",
+      "activity": "Går",
+      "windDirection": "Okänd",
+      "windSpeed": 3,
+      "comment": "",
+      "latitude": 58.65646604733565,
+      "longitude": 15.63164949417113,
+      "track": [
+        {
+          "lat": 58.65646604733565,
+          "lng": 15.63164949417113
+        },
+        {
+          "lat": 58.65705715071927,
+          "lng": 15.632765293121325
+        }
+      ],
+      "createdAt": "2026-10-22T15:24:52.427Z",
+      "updatedAt": "2026-10-22T15:24:52.427Z",
+      "drivenByDog": false,
+      "dogName": "",
+      "driveNumber": ""
+    },
+    {
+      "id": "obs-1bdac039-e1a4-4bb9-9cb9-c07cd65d7d1a",
+      "year": "2026/2027",
+      "date": "2026-10-22",
+      "time": "17:19",
+      "observerType": "member",
+      "observerId": "6",
+      "observerName": "Erik",
+      "visualObservation": true,
+      "droppings": false,
+      "fieldAnimal": false,
+      "species": "Dovhjort",
+      "animalClass": "Hjort (vuxen)",
+      "count": 5,
+      "place": "Kartposition",
+      "direction": "O",
+      "activity": "Går",
+      "windDirection": "Okänd",
+      "windSpeed": 3,
+      "comment": "",
+      "latitude": 58.661697586304705,
+      "longitude": 15.625691413879396,
+      "track": [
+        {
+          "lat": 58.661697586304705,
+          "lng": 15.625691413879396
+        },
+        {
+          "lat": 58.66160837565935,
+          "lng": 15.62708616256714
+        }
+      ],
+      "createdAt": "2026-10-22T15:19:44.159Z",
+      "updatedAt": "2026-10-22T15:19:44.159Z",
+      "drivenByDog": false,
+      "dogName": "",
+      "driveNumber": ""
+    },
+    {
+      "id": "obs-9eb1f5bf-a511-4247-8e5a-b9037c830f24",
+      "year": "2026/2027",
+      "date": "2026-10-18",
+      "time": "09:09",
+      "observerType": "member",
+      "observerId": "2",
+      "observerName": "Oskar",
+      "visualObservation": false,
+      "droppings": true,
+      "fieldAnimal": false,
+      "species": "Älg",
+      "animalClass": "Tjur (vuxen)",
+      "count": 1,
+      "place": "Kartposition",
+      "direction": "SO",
+      "activity": "Går",
+      "windDirection": "Okänd",
+      "windSpeed": 3,
+      "comment": "",
+      "latitude": 58.66142466298921,
+      "longitude": 15.609555244445803,
+      "track": [
+        {
+          "lat": 58.66142466298921,
+          "lng": 15.609555244445803
+        },
+        {
+          "lat": 58.66156078487034,
+          "lng": 15.609576702117922
+        },
+        {
+          "lat": 58.65861827527278,
+          "lng": 15.614190101623537
+        }
+      ],
+      "createdAt": "2026-10-22T15:10:16.606Z",
+      "updatedAt": "2026-10-22T15:10:16.606Z",
+      "drivenByDog": false,
+      "dogName": "",
+      "driveNumber": "",
+      "cloudId": "9eb1f5bf-a511-4247-8e5a-b9037c830f24"
+    },
+    {
+      "id": "obs-f575e62a-6f3f-4e5b-91ba-c4d6fac43da2",
+      "year": "2026/2027",
+      "date": "2026-10-18",
+      "time": "09:00",
+      "observerType": "member",
+      "observerId": "6",
+      "observerName": "Erik",
+      "visualObservation": true,
+      "droppings": false,
+      "fieldAnimal": false,
+      "species": "Rådjur",
+      "animalClass": "Get (vuxen)",
+      "count": 2,
+      "place": "Kartposition",
+      "direction": "V",
+      "activity": "Går",
+      "windDirection": "Okänd",
+      "windSpeed": 3,
+      "comment": "",
+      "latitude": 58.664785135120475,
+      "longitude": 15.596251487731935,
+      "track": [
+        {
+          "lat": 58.664785135120475,
+          "lng": 15.596251487731935
+        },
+        {
+          "lat": 58.664651330909344,
+          "lng": 15.594234466552736
+        }
+      ],
+      "createdAt": "2026-10-22T14:58:40.284Z",
+      "updatedAt": "2026-10-22T14:58:40.284Z",
+      "drivenByDog": false,
+      "dogName": "",
+      "driveNumber": "",
+      "cloudId": "f575e62a-6f3f-4e5b-91ba-c4d6fac43da2"
+    },
+    {
+      "id": "obs-9879377d-ad9d-4a78-98c5-2230aa2d7221",
+      "year": "2026/2027",
+      "date": "2026-10-22",
+      "time": "08:00",
+      "observerType": "member",
+      "observerId": "2",
+      "observerName": "Oskar",
+      "visualObservation": true,
+      "droppings": false,
+      "fieldAnimal": false,
+      "species": "Dovhjort",
+      "animalClass": "Hind (vuxen)",
+      "count": 5,
+      "place": "Kartposition",
+      "direction": "O",
+      "activity": "Springer",
+      "windDirection": "Okänd",
+      "windSpeed": 3,
+      "comment": "",
+      "latitude": 58.666566098859704,
+      "longitude": 15.625419616699235,
+      "track": [
+        {
+          "lat": 58.666566098859704,
+          "lng": 15.625419616699235
+        },
+        {
+          "lat": 58.66667759628429,
+          "lng": 15.629110336303727
+        }
+      ],
+      "createdAt": "2026-10-22T14:53:18.043Z",
+      "updatedAt": "2026-10-22T14:53:18.043Z",
+      "drivenByDog": false,
+      "dogName": "",
+      "driveNumber": "",
+      "cloudId": "9879377d-ad9d-4a78-98c5-2230aa2d7221"
+    },
+    {
+      "id": "obs-13d6a69a-dc7b-486c-9692-189778f89db1",
+      "year": "2026/2027",
+      "date": "2026-10-17",
+      "time": "12:00",
+      "observerType": "member",
+      "observerId": "2",
+      "observerName": "Oskar",
+      "visualObservation": true,
+      "droppings": false,
+      "fieldAnimal": false,
+      "species": "Dovhjort",
+      "animalClass": "Hind (vuxen)",
+      "count": 8,
+      "place": "Kartposition",
+      "direction": "NV",
+      "activity": "Springer",
+      "windDirection": "Okänd",
+      "windSpeed": 3,
+      "comment": "",
+      "latitude": 58.662974296733076,
+      "longitude": 15.63560485839844,
+      "track": [
+        {
+          "lat": 58.662974296733076,
+          "lng": 15.63560485839844
+        },
+        {
+          "lat": 58.66408936974673,
+          "lng": 15.632944107055666
+        },
+        {
+          "lat": 58.66698839278546,
+          "lng": 15.632257461547853
+        }
+      ],
+      "createdAt": "2026-10-22T14:52:16.634Z",
+      "updatedAt": "2026-10-22T14:52:16.634Z",
+      "drivenByDog": false,
+      "dogName": "",
+      "driveNumber": "",
+      "cloudId": "13d6a69a-dc7b-486c-9692-189778f89db1"
+    },
+    {
+      "id": "obs-36188766-c7f9-49a0-b7a1-2aa8656dd774",
+      "year": "2026/2027",
+      "date": "2026-10-08",
+      "time": "16:50",
+      "observerType": "member",
+      "observerId": "1",
+      "observerName": "Pelle",
+      "visualObservation": true,
+      "droppings": false,
+      "fieldAnimal": false,
+      "species": "Älg",
+      "animalClass": "Tjur (vuxen)",
+      "count": 1,
+      "place": "Kartposition",
+      "direction": "SO",
+      "activity": "Går",
+      "windDirection": "Okänd",
+      "windSpeed": 3,
+      "comment": "",
+      "latitude": 58.66368502078944,
+      "longitude": 15.611228942871096,
+      "track": [
+        {
+          "lat": 58.66368502078944,
+          "lng": 15.611228942871096
+        },
+        {
+          "lat": 58.6602504419318,
+          "lng": 15.607538223266603
+        },
+        {
+          "lat": 58.65764826314622,
+          "lng": 15.609025955200211
+        },
+        {
+          "lat": 58.65543997636634,
+          "lng": 15.612974166870133
+        },
+        {
+          "lat": 58.655719822322446,
+          "lng": 15.616765022277834
+        }
+      ],
+      "createdAt": "2026-10-22T14:51:09.985Z",
+      "updatedAt": "2026-10-22T14:51:09.985Z",
+      "drivenByDog": false,
+      "dogName": "",
+      "driveNumber": "",
+      "cloudId": "36188766-c7f9-49a0-b7a1-2aa8656dd774"
+    },
+    {
+      "id": "obs-1a7a4c5a-d100-474c-9123-7a6abda69959",
+      "year": "2026/2027",
+      "date": "2026-10-18",
+      "time": "16:50",
+      "observerType": "member",
+      "observerId": "2",
+      "observerName": "Oskar",
+      "visualObservation": true,
+      "droppings": false,
+      "fieldAnimal": false,
+      "species": "Dovhjort",
+      "animalClass": "Hind (vuxen)",
+      "count": 2,
+      "place": "Kartposition",
+      "direction": "O",
+      "activity": "Springer",
+      "windDirection": "Okänd",
+      "windSpeed": 3,
+      "comment": "",
+      "latitude": 58.66228730301918,
+      "longitude": 15.598740577697756,
+      "track": [
+        {
+          "lat": 58.66228730301918,
+          "lng": 15.598740577697756
+        },
+        {
+          "lat": 58.66389302848717,
+          "lng": 15.60135841369629
+        },
+        {
+          "lat": 58.66335115297767,
+          "lng": 15.605907440185549
+        },
+        {
+          "lat": 58.66152237583307,
+          "lng": 15.610327720642092
+        }
+      ],
+      "createdAt": "2026-10-22T14:50:26.082Z",
+      "updatedAt": "2026-10-22T14:50:26.082Z",
+      "drivenByDog": false,
+      "dogName": "",
+      "driveNumber": "",
+      "cloudId": "1a7a4c5a-d100-474c-9123-7a6abda69959"
+    },
+    {
+      "id": "obs-5159f1cf-5207-43c8-a772-c7b2c44af2e2",
+      "year": "2026/2027",
+      "date": "2026-10-10",
+      "time": "09:30",
+      "observerType": "external",
+      "observerId": null,
+      "observerName": "Ej angivet",
+      "species": "Älg",
+      "animalClass": "Tjur (vuxen)",
+      "count": 1,
+      "place": "Sjölunda",
+      "direction": "O",
+      "comment": "",
+      "createdAt": "2026-10-22T14:48:15.708Z",
+      "updatedAt": "2026-10-22T14:48:15.708Z",
+      "drivenByDog": false,
+      "dogName": "",
+      "driveNumber": "",
+      "cloudId": "5159f1cf-5207-43c8-a772-c7b2c44af2e2"
+    },
+    {
+      "id": "obs-99a871f6-a574-4aaa-b977-85449286560d",
+      "year": "2026/2027",
+      "date": "2026-10-01",
+      "time": "17:00",
+      "observerType": "external",
+      "observerId": null,
+      "observerName": "Ej angivet",
+      "species": "Älg",
+      "animalClass": "Tjur (vuxen)",
+      "count": 1,
+      "place": "Fagerdahl",
+      "direction": "NV",
+      "comment": "",
+      "createdAt": "2026-10-22T14:48:15.708Z",
+      "updatedAt": "2026-10-22T14:48:15.708Z",
+      "drivenByDog": false,
+      "dogName": "",
+      "driveNumber": "",
+      "cloudId": "99a871f6-a574-4aaa-b977-85449286560d"
+    },
+    {
+      "id": "obs-5fff8b04-7ca1-4411-8960-b7b77bc444be",
+      "year": "2026/2027",
+      "date": "2026-10-08",
+      "time": "07:00",
+      "observerType": "member",
+      "observerId": "1",
+      "observerName": "Pelle",
+      "species": "Dovhjort",
+      "animalClass": "Hjort (kalv)",
+      "count": 6,
+      "place": "Runda Kärret",
+      "direction": "Okänd",
+      "comment": "",
+      "createdAt": "2026-10-22T14:48:15.708Z",
+      "updatedAt": "2026-10-22T14:48:15.708Z",
+      "drivenByDog": false,
+      "dogName": "",
+      "driveNumber": "",
+      "cloudId": "5fff8b04-7ca1-4411-8960-b7b77bc444be"
+    }
+  ],
+  "passes": [
+    {
+      "id": "pass-e12898db-bdb6-4bfd-a5b8-a4a3d6c71f3e",
+      "name": "18",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-6891213e-0058-450e-a906-02e7fdc91fe2",
+      "name": "1a Bäcken",
+      "area": "",
+      "latitude": 58.6640714047495,
+      "longitude": 15.6316613405943,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-8d300a9f-701b-4537-adc9-1467371c64d6",
+      "name": "Anders",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-c8098855-c120-4db5-b075-09c780e2af87",
+      "name": "Aston",
+      "area": "",
+      "latitude": 58.6619805585216,
+      "longitude": 15.6095076352358,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-ea4bf673-bd6c-4ed6-93ea-e8dd6141fcc5",
+      "name": "Backen",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-6174c675-81ca-413e-bb7b-4858d0bafc19",
+      "name": "Bäcken östra",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-e855e549-eb6c-4ff4-998a-654ce265f2f8",
+      "name": "Benbrottet",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-981cdee2-d2d2-4df7-88c4-305d003876f1",
+      "name": "Björket",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-92e1acfc-7a36-45e2-afd2-21974e2ad6f8",
+      "name": "Bottilsbo",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "marker-48d0cb99-f8ff-4b5b-9d86-ab42c2055015",
+      "name": "Bro",
+      "area": "Bromarkering",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "bridge",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-37e87b83-c2de-402d-8baa-6fbe75a05e91",
+      "name": "Bron",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-23bd9dd3-b913-451c-af24-81783d27bca7",
+      "name": "D10",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-5d2ff524-6862-419d-95cc-13964a33e99c",
+      "name": "D12",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-9f0a9531-0edb-4f38-be53-ad4aebbcc14a",
+      "name": "D19",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-351fb808-2ca7-47af-9c5a-379a1b7c7b39",
+      "name": "D20",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-ad525118-3087-4141-96f0-f5c4d31bc020",
+      "name": "D21",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-1e8288a5-eb5e-42c2-8a81-f68466750761",
+      "name": "D23",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-66b60d0c-3532-479c-810d-e24d6e2dab3f",
+      "name": "D8",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-e6a1b334-624e-4e22-95a2-190c9007686b",
+      "name": "D9",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-113f890b-8729-4350-9bce-1b2b62ac46d9",
+      "name": "Fagerdal",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-0ba93627-1fa4-42ae-9b61-92f2a62a6cd9",
+      "name": "Fd Stocken",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-b75c8dac-e247-485f-be17-e754be9ac8f2",
+      "name": "Forden",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-6365800f-4ef7-417b-8bd3-36519b1172d7",
+      "name": "Fulahålet",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-39a11f90-4543-4425-b9e0-aefa50794bf2",
+      "name": "G5",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-6dd7f3d1-fe65-461a-ae37-4b4e8093d291",
+      "name": "G6",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-ac72872d-29da-40f7-8fb4-1fe70e36a392",
+      "name": "Generalpasset",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-5d2eab11-e6fc-4b1f-9787-40bc4d237f3f",
+      "name": "Gruvan",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-8be482e4-adc0-439c-a453-bffe911bc744",
+      "name": "Gullberget",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-fb2b4ac4-4532-4c79-905f-ef9468670f28",
+      "name": "Hagalund 1",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-cb541def-66b8-4a21-95b6-fca261628f05",
+      "name": "Hagalund 2",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-e248e3be-33b7-4257-a233-7ec03db66fd9",
+      "name": "Hagalund 3",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-e3568c9d-6c39-476a-879e-140d2190a7b7",
+      "name": "Hagen",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-18eb01cb-b5e3-47c2-a3a2-ca14722e09d9",
+      "name": "Hällorna",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-937db2b3-e522-4895-8660-1d5f7a3de24e",
+      "name": "Hammar",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-2e6d2ec8-5b03-48c2-b282-f7555bc4a839",
+      "name": "Holmen",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-8e2b4be3-1883-4e80-99ba-e66c1cae7a90",
+      "name": "Jarlebacken",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-1673c5f4-25db-49b6-be64-b643616d8e6f",
+      "name": "K12",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-8be562dd-54a5-4eb3-b950-692780c3e78b",
+      "name": "K14",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-a501fa2e-3eb7-4b6b-8ff9-6af96ac7ea0f",
+      "name": "K15",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-08ee3dea-38fc-4bbc-8a89-b5df5abc71cb",
+      "name": "K20",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-595af9e6-5661-4145-9032-4c08f923560b",
+      "name": "K21",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-8327b936-3b20-4496-988f-15cfb071d215",
+      "name": "K22",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-cad7972f-040b-46c7-96e9-e33dc16f6ebd",
+      "name": "Ledningen öst",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-3e996697-7744-4462-9fd3-3838957d7783",
+      "name": "Limpan",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-a6991f0e-a175-4456-a954-589d3759a4d9",
+      "name": "Lycka",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-230d7079-1bd3-4e31-b998-f7c3dd51301a",
+      "name": "Mickes",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-fe5aa492-c074-47ae-8f89-098f69d45346",
+      "name": "Mobila 1",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-050db4b2-1fc8-44b6-a2ff-3fd0014af267",
+      "name": "Mobila 2",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-a7dd5947-d02d-4606-971e-677c457d1946",
+      "name": "Norra gränsen",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-67c45a63-cc11-484d-b3ed-7c8db8c74f31",
+      "name": "Nya Lycka",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-b52b4774-9fa7-430d-a481-84d8cde2363d",
+      "name": "Oskarsgärdet",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-9f93a1f6-9843-43f4-8123-591526cd0a18",
+      "name": "Pass",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-eb72e4e6-2171-45cb-a2b6-d7918e4a69fe",
+      "name": "Pelles grispass",
+      "area": "",
+      "latitude": 58.660815949642,
+      "longitude": 15.6282663345337,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-05ecd830-6b34-4a00-9133-b8f338c18de0",
+      "name": "Pelles Norra",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-86c4ed71-6ad3-4ecc-8b5e-3de85d59a0b9",
+      "name": "Pizzatornet",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-6c13dd75-a3b1-40e4-9ec2-3af8f5a4a4fe",
+      "name": "Plaststolen",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-d4418eac-8827-491f-aab5-4edc959e7577",
+      "name": "Rishögen",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-bb2f44ea-1f8f-485e-a6fa-7c66c812134c",
+      "name": "Sågen",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-63c8b76c-af0d-4336-89d9-e5dfbf6f5189",
+      "name": "Sjölunda 1",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-b7d96694-3b00-4878-af79-2b2ab787d8d8",
+      "name": "Sjölunda 2",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-a38a5c4d-7178-413d-a1db-b8b4812f1fea",
+      "name": "Skjutbänken",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-31db995f-16f7-43e9-bfdc-6d807568d2bd",
+      "name": "Skolan",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-48ec144d-4591-4a30-bff6-1fed94b0f465",
+      "name": "Stegen",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-dac2d810-9b48-440d-8c77-f95b8ed285ca",
+      "name": "Sten Gösebo",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-6d1efcc7-1264-46c4-8e9d-011b5b58379f",
+      "name": "Stenen Drottninggatan",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-0a7d6783-0c64-4c42-a8c0-d87afa997419",
+      "name": "Surdraget",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-aace5150-e5db-4942-8d49-7498aae11bcd",
+      "name": "Svarta tornet",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-ab418496-b1bd-45d8-8502-8446aa739173",
+      "name": "Svenljunga",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-b0503f59-1fdc-442c-b081-3054fffa7e50",
+      "name": "THompas Älgpass",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-36a9bcd4-6224-469d-8d58-448120b8d788",
+      "name": "Tornet mossen",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-7e531f4f-f1f9-463a-948d-743570fca66d",
+      "name": "Trafon",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    },
+    {
+      "id": "pass-52577528-d18b-4029-922b-fe1bb5d86c2a",
+      "name": "Vindskyddet",
+      "area": "",
+      "latitude": null,
+      "longitude": null,
+      "active": true,
+      "markerType": "pass",
+      "photo": "",
+      "externalId": null
+    }
+  ],
+  "goals": {
+    "Rådjur": {
+      "adult": 4,
+      "young": 4,
+      "start": "08-16",
+      "end": "01-31"
+    },
+    "Dovhjort": {
+      "adult": 5,
+      "young": 5,
+      "start": "10-01",
+      "end": "02-28"
+    },
+    "Älg": {
+      "adult": 1,
+      "young": 1,
+      "start": "10-08",
+      "end": "01-31"
+    },
+    "Kronhjort": {
+      "adult": 1,
+      "young": 1,
+      "start": "08-16",
+      "end": "01-31"
+    },
+    "Vildsvin": {
+      "adult": 7,
+      "young": 7,
+      "start": "10-01",
+      "end": "02-28"
+    }
+  },
+  "messages": [],
+  "events": [],
+  "infoPosts": [],
+  "auditLog": [
+    {
+      "id": "log-7819f1cc-dc1d-401c-a9c1-3033d4a6b925",
+      "date": "2026-10-22T15:24:52.427Z",
+      "action": "Viltspår registrerat",
+      "details": "Älg, 1 djur, vind Okänd 3 m/s"
+    },
+    {
+      "id": "log-dc57e345-a5fe-4872-9ab0-b082b9202582",
+      "date": "2026-10-22T15:19:44.159Z",
+      "action": "Viltspår registrerat",
+      "details": "Dovhjort, 5 djur, vind Okänd 3 m/s"
+    },
+    {
+      "id": "log-5bb84a0b-a2af-406c-b2dd-69f95ad4086e",
+      "date": "2026-10-22T15:10:16.606Z",
+      "action": "Spillning registrerad",
+      "details": "Älg, 1 djur, vind Okänd 3 m/s"
+    },
+    {
+      "id": "log-f62303b0-f7d9-464c-ba6d-9a49cdcaccf8",
+      "date": "2026-10-22T14:58:40.284Z",
+      "action": "Viltspår registrerat",
+      "details": "Rådjur, 2 djur, vind Okänd 3 m/s"
+    },
+    {
+      "id": "log-9288e9b3-143a-49de-b6d0-56ccf01b0a26",
+      "date": "2026-10-22T14:53:18.043Z",
+      "action": "Viltspår registrerat",
+      "details": "Dovhjort, 5 djur, vind Okänd 3 m/s"
+    },
+    {
+      "id": "log-623e5dee-8e9a-470f-9c9f-bfe1f812c77f",
+      "date": "2026-10-22T14:52:16.634Z",
+      "action": "Viltspår registrerat",
+      "details": "Dovhjort, 8 djur, vind Okänd 3 m/s"
+    },
+    {
+      "id": "log-886c77f9-8c84-4e53-82af-4de6f882ae71",
+      "date": "2026-10-22T14:51:09.985Z",
+      "action": "Viltspår registrerat",
+      "details": "Älg, 1 djur, vind Okänd 3 m/s"
+    },
+    {
+      "id": "log-155e91b4-9b5c-41f9-bd30-fed5ed76b7a2",
+      "date": "2026-10-22T14:50:26.082Z",
+      "action": "Viltspår registrerat",
+      "details": "Dovhjort, 2 djur, vind Okänd 3 m/s"
+    }
+  ],
+  "yearCheckpoint": null,
+  "teamInfo": "Jaktlagets gemensamma information.",
+  "mapData": {
+    "boundary": [
+      [
+        58.665115724968,
+        15.587013181030276
+      ],
+      [
+        58.666735724968,
+        15.595913181030275
+      ],
+      [
+        58.667245724968,
+        15.607993181030276
+      ],
+      [
+        58.667205724968,
+        15.617723181030275
+      ],
+      [
+        58.667955724967996,
+        15.620623181030275
+      ],
+      [
+        58.671435724968,
+        15.617583181030275
+      ],
+      [
+        58.671915724967995,
+        15.623963181030275
+      ],
+      [
+        58.670995724967995,
+        15.628063181030276
+      ],
+      [
+        58.671075724968,
+        15.630953181030275
+      ],
+      [
+        58.667644724968,
+        15.637203181030275
+      ],
+      [
+        58.664195724967996,
+        15.636593181030275
+      ],
+      [
+        58.662055724968,
+        15.639403181030275
+      ],
+      [
+        58.659565724968,
+        15.638193181030276
+      ],
+      [
+        58.659325724968,
+        15.642303181030275
+      ],
+      [
+        58.655015724967996,
+        15.646613181030276
+      ],
+      [
+        58.654605724968,
+        15.642073181030275
+      ],
+      [
+        58.654925724967995,
+        15.637883181030276
+      ],
+      [
+        58.655995724967994,
+        15.634533181030276
+      ],
+      [
+        58.656915724967995,
+        15.631493181030276
+      ],
+      [
+        58.658485724967996,
+        15.627233181030276
+      ],
+      [
+        58.657595724968,
+        15.622973181030275
+      ],
+      [
+        58.655925724968,
+        15.620433181030275
+      ],
+      [
+        58.655075724968,
+        15.615943181030275
+      ],
+      [
+        58.654575724968,
+        15.610243181030276
+      ],
+      [
+        58.654675724967994,
+        15.604613181030276
+      ],
+      [
+        58.655585724968,
+        15.600883181030275
+      ],
+      [
+        58.657255724967996,
+        15.597763181030276
+      ],
+      [
+        58.659845724967994,
+        15.595333181030275
+      ],
+      [
+        58.660855724967995,
+        15.591073181030275
+      ],
+      [
+        58.663265724968,
+        15.589173181030276
+      ]
+    ],
+    "features": [],
+    "source": null,
+    "boundaries": [
+      {
+        "id": "main",
+        "name": "Huvudmark",
+        "main": true,
+        "points": [
+          [
+            58.665115724968,
+            15.587013181030276
+          ],
+          [
+            58.666735724968,
+            15.595913181030275
+          ],
+          [
+            58.667245724968,
+            15.607993181030276
+          ],
+          [
+            58.667205724968,
+            15.617723181030275
+          ],
+          [
+            58.667955724967996,
+            15.620623181030275
+          ],
+          [
+            58.671435724968,
+            15.617583181030275
+          ],
+          [
+            58.671915724967995,
+            15.623963181030275
+          ],
+          [
+            58.670995724967995,
+            15.628063181030276
+          ],
+          [
+            58.671075724968,
+            15.630953181030275
+          ],
+          [
+            58.667644724968,
+            15.637203181030275
+          ],
+          [
+            58.664195724967996,
+            15.636593181030275
+          ],
+          [
+            58.662055724968,
+            15.639403181030275
+          ],
+          [
+            58.659565724968,
+            15.638193181030276
+          ],
+          [
+            58.659325724968,
+            15.642303181030275
+          ],
+          [
+            58.655015724967996,
+            15.646613181030276
+          ],
+          [
+            58.654605724968,
+            15.642073181030275
+          ],
+          [
+            58.654925724967995,
+            15.637883181030276
+          ],
+          [
+            58.655995724967994,
+            15.634533181030276
+          ],
+          [
+            58.656915724967995,
+            15.631493181030276
+          ],
+          [
+            58.658485724967996,
+            15.627233181030276
+          ],
+          [
+            58.657595724968,
+            15.622973181030275
+          ],
+          [
+            58.655925724968,
+            15.620433181030275
+          ],
+          [
+            58.655075724968,
+            15.615943181030275
+          ],
+          [
+            58.654575724968,
+            15.610243181030276
+          ],
+          [
+            58.654675724967994,
+            15.604613181030276
+          ],
+          [
+            58.655585724968,
+            15.600883181030275
+          ],
+          [
+            58.657255724967996,
+            15.597763181030276
+          ],
+          [
+            58.659845724967994,
+            15.595333181030275
+          ],
+          [
+            58.660855724967995,
+            15.591073181030275
+          ],
+          [
+            58.663265724968,
+            15.589173181030276
+          ]
+        ]
+      }
+    ]
+  },
+  "passAssignments": [],
+  "savedAreas": []
+}

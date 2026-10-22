@@ -1,0 +1,30 @@
+-- Katterums jaktlag v2.5.0
+alter table public.observations add column if not exists wind_direction text;
+alter table public.observations add column if not exists wind_speed double precision;
+alter table public.observations add column if not exists track jsonb not null default '[]'::jsonb;
+alter table public.observations add column if not exists observer_name text;
+alter table public.observations add column if not exists observer_id text;
+alter table public.observations add column if not exists activity text;
+alter table public.observations add column if not exists metadata jsonb not null default '{}'::jsonb;
+alter table public.observations alter column created_by set default auth.uid();
+alter table public.observations enable row level security;
+drop policy if exists observations_read on public.observations;
+drop policy if exists observations_insert on public.observations;
+drop policy if exists observations_update on public.observations;
+drop policy if exists observations_delete on public.observations;
+create policy observations_read on public.observations for select to authenticated using (true);
+create policy observations_insert on public.observations for insert to authenticated with check (created_by=auth.uid());
+create policy observations_update on public.observations for update to authenticated using (true) with check (true);
+create policy observations_delete on public.observations for delete to authenticated using (true);
+
+alter table public.animals add column if not exists metadata jsonb not null default '{}'::jsonb;
+alter table public.animals add column if not exists created_by uuid references auth.users(id) default auth.uid();
+alter table public.animals enable row level security;
+drop policy if exists animals_read on public.animals;
+drop policy if exists animals_insert on public.animals;
+drop policy if exists animals_update on public.animals;
+drop policy if exists animals_delete on public.animals;
+create policy animals_read on public.animals for select to authenticated using (true);
+create policy animals_insert on public.animals for insert to authenticated with check (created_by=auth.uid());
+create policy animals_update on public.animals for update to authenticated using (true) with check (true);
+create policy animals_delete on public.animals for delete to authenticated using (true);

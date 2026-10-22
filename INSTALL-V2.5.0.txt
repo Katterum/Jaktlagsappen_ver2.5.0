@@ -1,0 +1,16 @@
+KATTERUMS JAKTLAG v2.5.0 - CLOUD RELEASE BASE
+
+1. Behall master-data-v250.json oforandrad. Den kommer fran den nya telefonbackupen.
+2. Kor hela SETUP-V2.5.0.sql i Supabase SQL Editor.
+3. Ersatt appfilerna i GitHub med filerna i detta paket.
+4. Oppna appen pa telefonen och logga in som Erik forst.
+5. Appen migrerar masterfilens observationer och fallda djur om molntabellerna ar tomma.
+6. Kontrollera i Supabase att observations och animals nu innehaller rader.
+7. Oppna appen pa datorn och kontrollera samma data.
+8. Kontrollera v2.5.0 i huvud och webblasartitel.
+
+VIKTIGT
+- Pass fortsatter anvanda Supabase.
+- Observationer, viltpar och falt vilt anvander Supabase som huvudkalla.
+- LocalStorage ar cache och reserv, inte huvudkalla for dessa register.
+- Masterfilen ska bara anvandas nar molntabellen ar tom.
